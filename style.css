@@ -1,0 +1,57 @@
+
+body{
+    background-image: url("colorful-math.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.container{
+    background-color:rgba(255, 255, 255, .5);
+    padding: 2%;
+}
+
+.container2{
+    padding: 2%;
+}
+h1{
+    font-size:5em;
+    color:#DC0769;
+}
+
+p, label{
+    color:#DC0769;
+}
+
+input{
+    width:100px;
+    height:100px;
+    margin: 10px;
+    font-family: 'Luckiest Guy', cursive;
+    color: #6EB1F2;
+    font-size:2em;
+
+}
+
+button {
+	background-color:#f1cd18;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #d6b303;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family: 'Luckiest Guy', cursive;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #f0ba18;
+}
+button:hover {
+	background-color:#d1b630;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
